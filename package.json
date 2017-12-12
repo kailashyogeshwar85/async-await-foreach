@@ -1,0 +1,23 @@
+{
+  "name": "async-await-foreach",
+  "version": "1.0.0",
+  "description": "Sequential For Each using async and await",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "foreach",
+    "chaining",
+    "promises"
+  ],
+  "homepage": "https://github.com/kailashyogeshwar85/async-await=-foreach",
+  "repository":{
+      "type" : "git",
+      "url" : "https://github.com/kailashyogeshwar85/async-await-foreach"
+   },
+  "author": "Kailash K Yogeshwar",
+  "license": "ISC"
+}
